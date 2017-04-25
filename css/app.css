@@ -1,0 +1,42 @@
+body {background: #fdfdfd;}
+.m-top-1{margin-top: 1rem;}
+.m-top-2{margin-top: 2rem;}
+.m-bot-1{margin-bottom: 1rem;}
+.m-bot-2{margin-bottom: 2rem;}
+.m-left-half{margin-left: 0.5rem;}
+.fl-r{float: right;}
+.ptr{cursor: pointer;}
+.subtext{color: #cecece; font-size: 0.8em;}
+.grey{color:#94949e;}
+.ui.secondary.pointing.menu {
+	border-bottom: none;
+	background-color: #fdfdfd;
+}
+/*.ui.secondary.pointing.menu .active.item{border: none;}
+.ui.secondary.pointing.menu .dropdown.item:hover, .ui.secondary.pointing.menu .link.item:hover, .ui.secondary.pointing.menu a.item:hover{border-bottom-style: solid; border-bottom-width: 2px; border-color:#1B1C1D;}*/
+.main-content {margin-top: 2.5rem;}
+/*Index*/
+.ui.grid>.column:not(.row), .ui.grid>.row>.column {padding-left: 0.5rem; padding-right: 0.5rem;}
+.ui.grid>.column:not(.row) {padding-top: 0.5rem; padding-bottom: 0.5rem;}
+.box {
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: none;
+}
+#box1 {
+	background-image: url('http://placehold.it/400x400');
+	height: 24rem;
+}
+#box2 {
+	background-image: url('http://placehold.it/400x400');
+	height: 24rem;
+}
+#box3 {
+	background-image: url('http://placehold.it/400x400');
+	height: 24rem;
+}
+/*Teaware*/
+.price-text{color:#696f75;}
+.buy-text{cursor: pointer; color:#27a700;}
+.lbox-img{max-width: 100%;}
